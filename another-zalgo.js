@@ -109,8 +109,11 @@
         });
         return newtxt;
     }
-    function zalgoize(string, options) {
-        
-    }
-    return {};
+    var zalgoize = function(string, options) {
+        return zalgoIt(string, options.level, options.directions);
+    };
+    return {
+        encode: zalgoize,
+        chars: chars
+    };
 }));
