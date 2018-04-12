@@ -21,6 +21,12 @@
             '\u036c', '\u036d', '\u036e', '\u036f', '\u033e', '\u035b',
             '\u0346', '\u031a'
         ],
+        middle: [
+            '\u0315', '\u031b', '\u0340', '\u0341', '\u0358', '\u0321',
+            '\u0322', '\u0327', '\u0328', '\u0334', '\u0335', '\u0336',
+            '\u034f', '\u035c', '\u035d', '\u035e', '\u035f', '\u0360',
+            '\u0362', '\u0338', '\u0337', '\u0361', '\u0489'
+        ],
         down: [
             '\u0316', '\u0317', '\u0318', '\u0319', '\u031c', '\u031d',
             '\u031e', '\u031f', '\u0320', '\u0324', '\u0325', '\u0326',
@@ -29,12 +35,6 @@
             '\u033a', '\u033b', '\u033c', '\u0345', '\u0347', '\u0348',
             '\u0349', '\u034d', '\u034e', '\u0353', '\u0354', '\u0355',
             '\u0356', '\u0359', '\u035a', '\u0323'
-        ],
-        middle: [
-            '\u0315', '\u031b', '\u0340', '\u0341', '\u0358', '\u0321',
-            '\u0322', '\u0327', '\u0328', '\u0334', '\u0335', '\u0336',
-            '\u034f', '\u035c', '\u035d', '\u035e', '\u035f', '\u0360',
-            '\u0362', '\u0338', '\u0337', '\u0361', '\u0489'
         ]
     };
 
@@ -60,10 +60,10 @@
     }
 
     function zalgoIt(text, level, directionsettings) {
-        var newtext = "";
+        var newtxt = "";
         stringForEach(text, function(char) {
             if (lookupstring.indexOf(char) !== -1) return;
-            newtext += char;
+            newtxt += char;
             var num_up, num_mid, num_down;
             if (level !== null && typeof level === 'object') {
                 num_up = randInt(level.up.min, level.up.max);
@@ -82,13 +82,17 @@
                 num_mid = randInt(2, 4);
                 num_down = randInt(3, 8);
             } else if (level === 4) {
-                num_up = randInt(4, 10);
-                num_mid = randInt(3, 5);
-                num_down = randInt(4, 10);
-            } else if (level === 5) {
-                num_up = randInt(5, 12);
+                num_up = randInt(6, 14);
                 num_mid = randInt(4, 6);
-                num_down = randInt(5, 12);
+                num_down = randInt(6, 14);
+            } else if (level === 5) {
+                num_up = randInt(9, 20);
+                num_mid = randInt(6, 8);
+                num_down = randInt(9, 20);
+            } else if (level === "mega") {
+                num_up = randInt(40, 80);
+                num_mid = randInt(10, 20);
+                num_down = randInt(40, 80);
             }
 
             if (directionsettings.indexOf('up') !== -1) {
