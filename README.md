@@ -4,6 +4,15 @@
  ## API:
  
  ```javascript
+ zalgoize.chars = {
+     up: [...],
+     down: [...],
+     middle: [...]
+ };
+ ```
+ As a convenience, the chars used for the top, bottom and middle are available here.
+ 
+ ```javascript
  zalgoize.encode(string, options);
  ```
  The string is the string to z̛̈́̂ͮ̋̈̾͊̍̀̓͊͆ͦ̃̅͒͌̀҉͉̮̱̦̺̯̹̬͍ͅͅa̢̹̪̣͔̤̣̩͕̲̹͚̜̮̗̮͓̲͊ͣ̃͛̏͟͜͜l̵̺͎̯̰̞̤̻̫̫̫̟͕̞̱̻̈́̋ͧ͆͜͜g̶̵͉̼̺̖͊̑̐̈͆͡͡͝ǫ̷̰̱̹̲̻̣̬͍̤̺̘̲̹̞͉̩̜̥ͮ͑ͨͬ̊̅͒͑̄ĩ̥͙͎̳͉͇̗͖̺̦̫̻̠̜͖̠̰̹͐̂̀̆ͤͥ̌͋ͣͩͧ̽ͣ͂ͣ̀̕͡z̶̠͖͚̙̝̺̽̑̌̊̆̂͛͋ͣ̃͑̄̂͛̄͘͜͡ẽ̢̍͒͂͊ͫ̾͛͛̒͒ͤ̒̐ͭ͋ͣ͟͝͏̢̹͕̦̙̺͙̲̮̪ͅͅ. The options is an object with the following:
