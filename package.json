@@ -1,0 +1,16 @@
+{
+  "name": "another-zalgo",
+  "version": "1.0",
+  "description": "Zalgo more text than ever before",
+  "main": "another-zalgo.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheGreatRambler/another-zalgo.js"
+  },
+  "keywords": [
+    "zalgo",
+    "text"
+  ],
+  "author": "TheGreatRambler",
+  "license": "MIT"
+}
