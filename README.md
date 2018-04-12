@@ -29,7 +29,7 @@
  ```javascript
  options.level = 3;
  ```
- The amount of z̷̹̬̣̦̲͍̩͎̭͈͚͊͛́ͩ̈ͦͪ͐͌͂̓̿̎ͬ̀͝͠ä̸̛̫̣̩̠͚̙́ͯ̅̓̄̈́̕̕l̸͎͍̩̠̘̦ͬ̎ͦ́̾ͫ͂̐ͯͦ̒́͊̿͐͡g̶̸̡̖̥̠͓̖̜͂͛̈́̌̓͊̆̔̾͗̇̑̔̕o͒̉̀͋̆͗͛ͬ͗ͣ̍͐ͭ̃ͥ͆̒҉̠͎̙̥̟̬̬̲͍͖̠̮̱̯̪̝̤̮͟͟ to include. 1 is m͚̘͈͓̔̇̾̊̐i̳͋ní̻͊̑̂̃m̜̟̱ͧͦͨ̿̾ṵ̯͈ͬ̓̌̏ͣͅm̼̔̑̓ͬ̿ͪ, 2 is n̷̖̪͎̻̐̇ͦ̿ͫͣ̅͢ͅo͕̙̰̝͎̖ͭ͛ͥ̊͆r͙͓͇͉̓͒m̧̡̨̻̯̾̋ͩ̽͗̏̄̓ạ̶͎̙͓̟͎͕͈͊̔ͫ̌̈̌l̮͆̑͋̍, 3 is the m̴͑̄̉͑͆̀̊ͩ̇̏̀̐̈̕҉̸̟͕̘̜̯̫̪̺̱̼͞ͅä̵̷̛͙̠̪͈́ͮ̋̚x̨̧̩̣͈͈͓̻̫̰͍̦̬̫͚̯̦̙̦͎͂ͣ̎̑̂͂̆̈́ͥ͂́́ͅi̶̶̹͇̮̣̪̾̀̈̍̈ͦ͋͒͂̓͐ͭ́̀̕m̵̖̼͇̙̪̱̬̰̬͌ͧ̈́́͘ͅû̷̶̢͓̳̟̘̳͓̖̲͈͈̈̍ͬ̇̈͐ͬͧ̋͑͢mͥ̈̃͐͌̇ͪ́͂ͧͩ̔̑̿͡҉̮̻͍͉͡. There is also 4 and 5 if you want to kill your computer. In addition, you can define your own numbers with an object.
+ The amount of z̷̹̬̣̦̲͍̩͎̭͈͚͊͛́ͩ̈ͦͪ͐͌͂̓̿̎ͬ̀͝͠ä̸̛̫̣̩̠͚̙́ͯ̅̓̄̈́̕̕l̸͎͍̩̠̘̦ͬ̎ͦ́̾ͫ͂̐ͯͦ̒́͊̿͐͡g̶̸̡̖̥̠͓̖̜͂͛̈́̌̓͊̆̔̾͗̇̑̔̕o͒̉̀͋̆͗͛ͬ͗ͣ̍͐ͭ̃ͥ͆̒҉̠͎̙̥̟̬̬̲͍͖̠̮̱̯̪̝̤̮͟͟ to include. 1 is m͚̘͈͓̔̇̾̊̐i̳͋ní̻͊̑̂̃m̜̟̱ͧͦͨ̿̾ṵ̯͈ͬ̓̌̏ͣͅm̼̔̑̓ͬ̿ͪ, 2 is n̷̖̪͎̻̐̇ͦ̿ͫͣ̅͢ͅo͕̙̰̝͎̖ͭ͛ͥ̊͆r͙͓͇͉̓͒m̧̡̨̻̯̾̋ͩ̽͗̏̄̓ạ̶͎̙͓̟͎͕͈͊̔ͫ̌̈̌l̮͆̑͋̍, 3 is the m̴͑̄̉͑͆̀̊ͩ̇̏̀̐̈̕҉̸̟͕̘̜̯̫̪̺̱̼͞ͅä̵̷̛͙̠̪͈́ͮ̋̚x̨̧̩̣͈͈͓̻̫̰͍̦̬̫͚̯̦̙̦͎͂ͣ̎̑̂͂̆̈́ͥ͂́́ͅi̶̶̹͇̮̣̪̾̀̈̍̈ͦ͋͒͂̓͐ͭ́̀̕m̵̖̼͇̙̪̱̬̰̬͌ͧ̈́́͘ͅû̷̶̢͓̳̟̘̳͓̖̲͈͈̈̍ͬ̇̈͐ͬͧ̋͑͢mͥ̈̃͐͌̇ͪ́͂ͧͩ̔̑̿͡҉̮̻͍͉͡. There is also 4 and 5 if you want to kill your computer. In addition, you can define your own numbers with an object. <sub>You can also use "mega" as a option, but your brain might explode</sub>
  
  ```javascript
  options.level = {
