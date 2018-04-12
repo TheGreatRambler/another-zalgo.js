@@ -10,7 +10,7 @@
      middle: [...]
  };
  ```
- As a convenience, the chars used for the top, bottom and middle are available here.
+ As a convenience, the chars used for the top, bottom and middle are available here as arrays.
  
  ```javascript
  zalgoize.encode(string, options);
