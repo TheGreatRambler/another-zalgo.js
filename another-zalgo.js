@@ -90,9 +90,9 @@
                 num_mid = randInt(6, 8);
                 num_down = randInt(9, 20);
             } else if (level === "mega") {
-                num_up = randInt(40, 80);
-                num_mid = randInt(10, 20);
-                num_down = randInt(40, 80);
+                num_up = randInt(100, 140);
+                num_mid = randInt(20, 30);
+                num_down = randInt(100, 140);
             }
 
             if (directionsettings.indexOf('up') !== -1) {
