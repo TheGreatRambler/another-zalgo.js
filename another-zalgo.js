@@ -4,7 +4,7 @@
     } else if (typeof module === 'object' && module.exports) {
         module.exports = factory();
     } else {
-        root.anotherZalgo = factory();
+        root.zalgoize = factory();
     }
 }(typeof self !== 'undefined' ? self : this, function() {
     // code partially adapted from https://github.com/generaltso/zalgo
@@ -108,6 +108,9 @@
             }
         });
         return newtxt;
+    }
+    function zalgoize(string, options) {
+        
     }
     return {};
 }));
